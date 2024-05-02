@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Ricardo</h1>
-<h3 align="center">Passionate about computer science, studying computer engineering at UNIR. Willing to learn and improve day by day.</h3>
+<h3 align="center">Willing to learn and improve day by day.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rickyrm&label=Profile%20views&color=0e75b6&style=flat" alt="rickyrm" /> </p>
 
