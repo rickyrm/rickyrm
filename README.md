@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/rickyrm/rickyrm/blob/main/Ricardo_Rivero.png" alt="Github Banner" />
+  <img src="https://github.com/rickyrm/rickyrm/blob/main/banner%20ricardo2.png" alt="Github Banner" />
 
   <h3>Willing to learn and improve day by day.</h3>
 
