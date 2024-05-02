@@ -1,10 +1,6 @@
 <div align="center">
   <img src="https://github.com/rickyrm/rickyrm/blob/main/banner%20ricardo2.png" alt="Github Banner" />
-
-  <h3>Willing to learn and improve day by day.</h3>
-
-  <p><img src="https://komarev.com/ghpvc/?username=rickyrm&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>
-
+  
   <h3>Connect with me:</h3>
 
   <p>
