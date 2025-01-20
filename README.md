@@ -23,11 +23,11 @@
 
 ### 🛠 Tecnologías y Herramientas
 
-- **Lenguajes de Programación**: JavaScript, Python, Java, C++
-- **Desarrollo Web**: HTML, CSS, React, Node.js, Express
-- **Bases de Datos**: MySQL, PostgreSQL, MongoDB
+- **Lenguajes de Programación**: JavaScript, Python, Java, C
+- **Desarrollo Web**: HTML, CSS, Angular, Node.js, Astro, Vuejs
+- **Bases de Datos**: MySQL y MongoDB
 - **Control de Versiones**: Git, GitHub
-- **Herramientas y Otros**: Docker, Linux, AWS, CI/CD
+- **Herramientas y Otros**: Docker, Linux, AWS, WSL
 
 
 ---
