@@ -41,7 +41,7 @@ Soy un entusiasta de las soluciones creativas, la inteligencia artificial y el d
 ### 📫 ¿Quieres Conectar?
 
 - **Correo**: riki.1997.121@gmail.com
-- **LinkedIn**: [linkedin.com/ricardorivero](https://www.linkedin.com/in/ricardo-rivero-23a368208/)
+- **LinkedIn**: [linkedin.com/ricardorivero](https://www.linkedin.com/in/ricardo-rivero-martin/)
 
 ---
 
